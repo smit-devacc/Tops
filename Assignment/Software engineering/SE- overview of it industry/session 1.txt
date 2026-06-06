@@ -1,0 +1,42 @@
+Session 1 - Welcome to the IT WorldExplain careers in IT (developer, tester, designer, data analyst, AI engineer).Discuss product vs service companies; real-world examples (Google, Zoho, TCS).
+Overview of how teams collaborate using GitHub, Slack, Jira.Trainer Demo: Show an open-source GitHub project (e.g., “Awesome-Java”) and walk through contributors’ roles.AI Tool Tip: Ask ChatGPT to list top emerging tech jobs (to discuss in class).
+
+
+
+Question 1 : Name 5 IT job roles and write one line about what each role does.
+Answer :
+    Frontend developer - Developer designs and writes code for frontend design which is shown to the user/customer.
+    Backend developer - Developer builds backend systems which run code on server and handles business logic, security, etc.
+    Devops engineer - Developer creates CI/CD pipelines which automates integration and deployment of applications on server.
+    Infrastructure engineer - engineer handles and manages servers and insfrastructure which runs all the appplications.
+    Appplication tester - Tester tests and runs application which will be verfied if application is running according to requirements and approve for release.
+
+Question 2 : List 3 product companies and 3 service companies with one example of work each does.
+Answer :
+    Apple : apple is a product based company which manufactores electronic devices such as phones,computers, etc.
+    Google : google has many products such as google search, youtube, pixel phones etc.
+    Meta : meta has many products such as Meta quest 3, facebook, instagram, etc.
+    TCS : TCS provides services to other companies such as irctc and other clients.
+    Wipro : Wipro provides services to many companies, such as development, sap, testing etc.
+    Infosys : Infosys provides services to many international companies.
+
+Question 3 : Write the full forms and one-line use of: GitHub, Slack, Jira, IDE, API.
+Answer :
+    GitHub : used for code version control and sharing of code.
+    Slack : slack is used for companies internel messaging and sharing files.
+    Jira :  Used to track tickets and store important documnets and files.
+    IDE : (Integrated development environment) environment which has all features used by developer such as, code editor, debugger, terminal etc.
+    API : (Apllication programming interface) used to communicate between applications via any protocol such as restful apis, grpc, json etc.
+
+Question 4 : Name any 5 programming languages and mention one popular use case for each.
+Answer :
+    C++ : Used heavily in gaming industry to develop games.
+    Python : used for AI /ML and data analysis.
+    Golang : used in performance backend cloud systems.
+    html : used for creating websites.
+    Javascript : used for scripting web pages and also as a backend language.
+
+Question 5 : What is the difference between a developer and a tester? Answer in 2 lines.
+Answer :
+    Developer is a person who develops and writes code for any application,
+    meanwhile tester tests the code written by a developer to check if it meets the criteria and doesn't have any bug.
