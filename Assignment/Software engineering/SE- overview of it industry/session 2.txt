@@ -1,0 +1,32 @@
+Session 2: How Software WorksDefine software application and its components.Explain software architecture layers: UI ? Business Logic ? Database.Compare desktop, web, and mobile apps.Explain client-server communication with example (browser request ? backend ? database ? response).
+Trainer Demo: Use Draw.io or Lucidchart AI to visually show data flow (e.g., for “Instagram feed refresh”).
+
+
+Question 1 : What are the three main layers of software architecture? Write one line about each.
+Answer : Presentation layer - layer where data is shown in form of visualization on screens like mobile, desktop etc.
+         Business layer - most crucial layer where important business logic is implemented according to requirements.
+         data access layer - this layer runs backend services and store and retrive data from database.
+
+Question 2 : Define client and server in your own words with one real-life example.
+Answer : Client means consumer which uses the application ex, instagram app is a client.
+            server is physical hardware which runs backend code, business layer which support the client.
+
+Question 3 : Write 2 differences each between desktop apps, web apps, and mobile apps.
+Answer : 
+        Desktop app :
+            - can be installed on operating systems
+            - usually in the format of .exe
+
+        web apps :
+            - web apps run on browser
+            - does not need any installation
+
+        mobile apps :
+            - these apps run on mobile devices such as apple, android os
+            - these contain formats such as .apk, .ipa etc
+
+Question 4 : Name any 3 databases and mention whether each is SQL or NoSQL.
+Answer :
+    Redis (NoSQL): redis is super fast performing db which is usually used as a cache db.
+    Postgres (SQL): Postgres is relational database widely used according
+    Firebase (NoSQL): Firebase is a popular realtime database 
