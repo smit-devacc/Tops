@@ -16,12 +16,10 @@ Agile :
 - requirements can be changed during development.
 - customer feedback is taken regularly.
 
-```
 Waterfall :
     - work is completed phase by phase in sequence.
     - requirements are fixed before development starts.
     - testing usually happens after development is completed.
-```
 
 Question 3 : Name the 3 main Scrum roles and write one line about the responsibility of each.
 Answer :
