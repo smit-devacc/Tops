@@ -1,0 +1,42 @@
+Session 4: Software Development Lifecycle (SDLC)Explain SDLC phases: Requirement Design Development Testing Deployment Maintenance.Discuss Agile vs Waterfall, Scrum roles (PO, Scrum Master, Dev Team).Relate each phase to a real-world app (e.g., “Spotify new feature rollout”).Trainer Demo: Show a Jira board mock-up with stories in “To Do / In Progress / Done.”
+
+Question 1 : List all 6 phases of SDLC in order with one line about each.
+Answer :
+Requirement : requirements are gathered from customer and business teams.
+Design : architecture and design of application is prepared before development.
+Development : developers write code according to requirements and design.
+Testing : testers verify application and check for bugs and issues.
+Deployment : application is deployed to production environment for users.
+Maintenance : application is monitored and updated after release.
+
+Question 2 : Write 3 differences between Agile and Waterfall models.
+Answer :
+Agile :
+- work is done in small iterations called sprints.
+- requirements can be changed during development.
+- customer feedback is taken regularly.
+
+```
+Waterfall :
+    - work is completed phase by phase in sequence.
+    - requirements are fixed before development starts.
+    - testing usually happens after development is completed.
+```
+
+Question 3 : Name the 3 main Scrum roles and write one line about the responsibility of each.
+Answer :
+Product Owner (PO) : manages requirements and prioritizes tasks for team.
+Scrum Master : ensures scrum process is followed and removes blockers.
+Development Team : develops, tests and delivers application features.
+
+Question 4 : What is a Sprint in Scrum? Mention its typical duration.
+Answer :
+Sprint is a fixed period in which scrum team completes planned tasks and features.
+Typical duration of sprint is 1 to 4 weeks.
+
+Question 5 : What do these Jira board columns mean: To Do, In Progress, Done, Backlog?
+Answer :
+To Do : tasks which are ready to start.
+In Progress : tasks currently being worked on by team members.
+Done : tasks which are completed and finished.
+Backlog : list of pending tasks which are not yet planned for current sprint.
