@@ -1,0 +1,39 @@
+Session 3: Internet & Networking BasicsInternet Fundamentals: How computers communicate.Protocols: Define HTTP, HTTPS, FTP, SMTP (overview only, 5 mins each).Domain & DNS: Explain how domain names map to IP addresses.Demonstrate using nslookup google.com.Explain DNS hierarchy: root, TLD, domain, subdomain.IP Addressing: What is an IP (IPv4 vs IPv6)?HTTP Lifecycle: Request ? Response ? Status Codes (focus on 200, 404, 500).Trainer Demo: Use browser DevTools ? Network tab
+
+Question 1 : Write the full form and one-line use of: HTTP, HTTPS, FTP, SMTP.
+Answer :
+HTTP : (Hyper Text Transfer Protocol) used for communication between browser and server.
+HTTPS : (Hyper Text Transfer Protocol Secure) secure version of HTTP which encrypts the data.
+FTP : (File Transfer Protocol) used to transfer files between systems over network.
+SMTP : (Simple Mail Transfer Protocol) used for sending emails between mail servers.
+
+Question 2 : What is the difference between IPv4 and IPv6? Answer in 2 lines.
+Answer :
+IPv4 uses 32 bit address format such as 192.168.1.1 and has limited number of addresses.
+IPv6 uses 128 bit address format and provides very large number of unique IP addresses.
+
+Question 3 : Run nslookup google.com on your system and write down the IP address you get.
+Answer :    smit@Smits-Mac ~ % nslookup google.com
+            Server:		8.8.8.8
+            Address:	8.8.8.8#53
+
+            Non-authoritative answer:
+            Name:	google.com
+            Address: 142.251.222.110
+
+Question 4 : What do these HTTP status codes mean: 200, 301, 404, 500, 403?
+Answer :
+200 : Request completed successfully.
+301 : Resource has been moved permanently to another URL.
+404 : Requested page or resource was not found.
+500 : Internal server error occured on backend server.
+403 : Access to resource is forbidden due to permissions.
+
+Question 5 : Explain DNS hierarchy (root, TLD, domain, subdomain) with [www.google.com](http://www.google.com) as an example.
+Answer :
+Root : highest level in DNS hierarchy represented by ".".
+TLD : ".com" is the top level domain.
+Domain : "google" is the domain name registered under .com.
+Subdomain : "www" is subdomain of google.com used to access website.
+
+
